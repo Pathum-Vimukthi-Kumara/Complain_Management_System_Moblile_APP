@@ -27,17 +27,14 @@ class Student extends User {
   });
 
   Complaint submitComplaint(Map<String, dynamic> complaintDetails) {
-    // Implementation for submitting complaint
     throw UnimplementedError();
   }
 
   List<Complaint> viewMyComplaints() {
-    // Implementation for viewing complaints
     return [];
   }
 
   ComplaintStatus trackComplaintStatus(String complaintId) {
-    // Implementation for tracking complaint status
     throw UnimplementedError();
   }
 }

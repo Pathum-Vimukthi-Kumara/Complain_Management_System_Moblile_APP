@@ -32,17 +32,17 @@ class Complaint {
   });
 
   bool updateStatus(ComplaintStatus newStatus) {
-    // Implementation for updating status
+   
     return false;
   }
 
   bool assignTo(String userId) {
-    // Implementation for assigning complaint
+ 
     return false;
   }
 
   bool addAttachment(String filePath) {
-    // Implementation for adding attachment
+   
     return false;
   }
 }

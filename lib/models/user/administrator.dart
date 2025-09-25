@@ -25,17 +25,17 @@ class Administrator extends User {
   });
 
   List<Complaint> viewAssignedComplaints() {
-    // Implementation for viewing assigned complaints
+    
     return [];
   }
 
   bool assignComplaint(String complaintId, String assigneeId) {
-    // Implementation for assigning complaint
+  
     return false;
   }
 
   bool updateComplaintStatus(String complaintId, String status) {
-    // Implementation for updating complaint status
+ 
     return false;
   }
 }

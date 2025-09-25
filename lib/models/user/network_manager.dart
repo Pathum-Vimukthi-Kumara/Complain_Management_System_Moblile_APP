@@ -23,17 +23,17 @@ class NetworkManager extends User {
   });
 
   List<Complaint> viewAllComplaints() {
-    // Implementation for viewing all complaints
+  
     return [];
   }
 
   Report generateReports() {
-    // Implementation for generating reports
+    
     throw UnimplementedError();
   }
 
   bool manageUsers() {
-    // Implementation for managing users
+    
     return false;
   }
 }
